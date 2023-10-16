@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "energypal", "energypal\energypal.csproj", "{0318E566-0449-42BB-9894-D27EDAFE9151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "energypal.domain", "energypal.domain\energypal.domain.csproj", "{F61040DE-EE2D-473E-AC94-A966073043FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "energypal.tests", "energypal.tests\energypal.tests.csproj", "{D2A77FF7-DD10-4447-B2F9-C22D5A1EDF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0318E566-0449-42BB-9894-D27EDAFE9151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0318E566-0449-42BB-9894-D27EDAFE9151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0318E566-0449-42BB-9894-D27EDAFE9151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0318E566-0449-42BB-9894-D27EDAFE9151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61040DE-EE2D-473E-AC94-A966073043FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61040DE-EE2D-473E-AC94-A966073043FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61040DE-EE2D-473E-AC94-A966073043FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61040DE-EE2D-473E-AC94-A966073043FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A77FF7-DD10-4447-B2F9-C22D5A1EDF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A77FF7-DD10-4447-B2F9-C22D5A1EDF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A77FF7-DD10-4447-B2F9-C22D5A1EDF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A77FF7-DD10-4447-B2F9-C22D5A1EDF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
